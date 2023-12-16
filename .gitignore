@@ -3,3 +3,4 @@ node_modules
 github-link.txt
 server.cert
 server.key
+config.js
